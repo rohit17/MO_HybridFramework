@@ -35,6 +35,7 @@ public class BaseClass
 	public ExtentReports report;
 	
 	//declaring object of log to capture log in extent reports
+	//declaring object of log to capture log in extent reports
 	public ExtentTest logger;
 	
 	@BeforeSuite
